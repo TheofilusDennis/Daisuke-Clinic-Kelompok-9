@@ -1,0 +1,2 @@
+P01|D01|15.00|Kulit Iritasi|Krim Anti Iritasi|Rawat Jalan
+P01|D02|19.00|Gejala Sinusitis|Kortikosteroidis|Rawat Jalan
